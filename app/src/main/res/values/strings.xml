@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MenuDemo</string>
+    <string name="create">Create</string>
+    <string name="destroy">Destroy</string>
+    <string name="cancel">Cancel</string>
+    <string name="print">Print</string>
+    <string name="share">Share</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+</resources>

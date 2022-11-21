@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/print"
+        android:icon="@drawable/ic_baseline_print_24"
+        android:title="@string/print"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/ic_baseline_share_24"
+        android:title="@string/share"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/save"
+        android:title="@string/save" />
+    <item
+        android:id="@+id/delete"
+        android:title="@string/delete" />
+    <item
+        android:id="@+id/cancel"
+        android:title="@string/cancel" />
+
+
+</menu>
